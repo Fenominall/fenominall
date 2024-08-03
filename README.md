@@ -1,5 +1,3 @@
-![MasterHead](https://mayvenstudios.com/wp-content/uploads/swift-logo.png)
-
 <h1 align="left">Hi 👋, I'm Vladislav Todorov</h1>
 <h3 align="left">A passionate iOS developer</h3>
 
@@ -15,6 +13,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenominall&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/udokaokoye/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenominall&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenominall&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/udokaokoye/github-readme-stats)
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fenominall&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
