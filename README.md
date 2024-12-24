@@ -17,5 +17,5 @@
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenominall&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/udokaokoye/github-readme-stats)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fenominall)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fenominall-10&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fenominall&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
