@@ -7,6 +7,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:it.vtodorov@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0b66c3.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-todorov-4b093023b/)
+[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)]([https://www.linkedin.com/in/vladislav-todorov-4b093023b/](https://leetcode.com/u/Fenominall/))
 
 <hr/>
 
