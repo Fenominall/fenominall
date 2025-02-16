@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Vladislav Todorov</h1>
 <h3 align="left">A passionate iOS developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fenominall&label=Profile%20views&color=0e75b6&style=flat" alt="fenominall" /> </p>
-
 <h1>💬 Social</h1>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:it.vtodorov@gmail.com)
