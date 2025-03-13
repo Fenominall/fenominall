@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Vladislav Todorov</h1>
+<h1 align="left">Hi 👋, I'm Vlad</h1>
 <h3 align="left">A passionate iOS developer</h3>
 
 <h1>💬 Social</h1>
